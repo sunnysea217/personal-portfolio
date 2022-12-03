@@ -1,0 +1,1 @@
+Interactive Personal-Portfolio designed around a pdf version of my resume. Further insights upon hover/click, navigation to project websites, and more to be done.
